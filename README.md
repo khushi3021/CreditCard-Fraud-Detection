@@ -1,4 +1,5 @@
 **Credit Card Fraud Detection Model**
+
 The goal of this project is to develop a logistic regression model capable of accurately detecting fraudulent credit card transactions within a given transactional dataset. To achieve this, a prerequisite study in imbalanced learning is required to understand the challenges associated with imbalanced datasets.
 
 The initial logistic regression model is implemented to classify transactions as either fraudulent or legitimate. However, due to the inherent class imbalance in the dataset, the model may struggle to detect fraudulent cases effectively, even though it may boast of high accuracy, resulting in a low Recall Value and a high False Negative Rate.
