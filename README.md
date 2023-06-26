@@ -11,3 +11,5 @@ The project focuses on improving the Recall Value and reducing the False Negativ
 The project involves several steps, including data preprocessing, feature engineering, model training, and evaluation. The logistic regression model is implemented using suitable libraries or frameworks, ensuring efficient processing and accurate predictions. The performance of the model is assessed using appropriate evaluation metrics, such as accuracy, recall and FNR
 
 Overall, this project aims to develop an effective logistic regression model using SMOTE to enhance the detection of fraudulent credit card transactions. By addressing the challenges posed by imbalanced datasets, the model can improve the Recall Value and minimize the False Negative Rate, contributing to more robust fraud detection systems in the financial domain.
+
+Dataset Repository: Kaggle
