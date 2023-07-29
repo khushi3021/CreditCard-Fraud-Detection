@@ -15,3 +15,4 @@ The project involves several steps, including data preprocessing, feature engine
 Overall, this project aims to develop an effective logistic regression model using SMOTE to enhance the detection of fraudulent credit card transactions. By addressing the challenges posed by imbalanced datasets, the model can improve the Recall Value and minimize the False Negative Rate, contributing to more robust fraud detection systems in the financial domain.
 
 Dataset Repository: Kaggle
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
